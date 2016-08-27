@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='Composite Site Example All Versions' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+<repository name='Mark Royer Composite Site All Versions' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
     <property name='p2.timestamp' value='1437675234189'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
   <children size='1'>
-    <child location='ncsa.hdf.hdfjava.repository/updates'/>
+    <child location='https://raw.githubusercontent.com/wiki/markroyer/hdfjava-eclipse-plugin/ncsa.hdf.hdfjava.repository/updates'/>
   </children>
 </repository>
