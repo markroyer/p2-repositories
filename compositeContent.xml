@@ -5,7 +5,8 @@
     <property name='p2.timestamp' value='1437675234189'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='https://raw.githubusercontent.com/wiki/markroyer/hdfjava-eclipse-plugin/ncsa.hdf.hdfjava.repository/updates'/>
+    <child location='https://raw.githubusercontent.com/wiki/markroyer/hdfjavaio/edu.umaine.cs.hdfjavaio.repository/updates'/>
   </children>
 </repository>
