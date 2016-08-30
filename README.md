@@ -13,3 +13,4 @@ As this collection grows, I will try to create a complete list of librarires in 
 * [hdfjava-eclipse-plugin](https://github.com/markroyer/hdfjava-eclipse-plugin/)
 * [hdfjavaio](https://github.com/markroyer/hdfjavaio/)
 * [osgi-jfreechart](https://github.com/markroyer/osgi-jfreechart)
+* [osgi-xstream](https://github.com/markroyer/osgi-xstream)
