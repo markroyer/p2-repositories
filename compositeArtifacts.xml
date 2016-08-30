@@ -5,8 +5,9 @@
     <property name='p2.timestamp' value='1437675234188'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='https://raw.githubusercontent.com/wiki/markroyer/hdfjava-eclipse-plugin/ncsa.hdf.hdfjava.repository/updates'/>
     <child location='https://raw.githubusercontent.com/wiki/markroyer/hdfjavaio/edu.umaine.cs.hdfjavaio.repository/updates'/>
+    <child location='https://raw.githubusercontent.com/wiki/markroyer/osgi-jfreechart/org.jfree.jfreechart.repository/updates'/>
   </children>
 </repository>
