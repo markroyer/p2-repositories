@@ -1,6 +1,6 @@
 # p2-repositories
 
-A collection of OSGI plugin repositories.
+This project is a composite p2 repository that is a collection of the OSGI plugin repositories listed below.
 
 To install the any of the plugins, add the following URL to the list of available software sites in eclipse.
 
